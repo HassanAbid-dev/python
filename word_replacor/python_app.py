@@ -4,7 +4,7 @@ def word_replace():
     word_to_replace_with=input("Enter the word u wanna replace with:")
     replaced_sentence=sentence.replace(word_to_replace,word_to_replace_with)
     print(replaced_sentence)
-
-word_replace()
+    
 
     
+word_replace()
